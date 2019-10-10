@@ -4,7 +4,9 @@ def speak_to_grandma(string)
     return "I LOVE YOU TOO PUMPKIN!"
   
   if else == "Hi Nana, how are you?"
-    return 
+    return "HUH?! SPEAK UP, SONNY!"
+    
+  if else
     
 end
 
