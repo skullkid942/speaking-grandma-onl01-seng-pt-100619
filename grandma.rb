@@ -1,7 +1,10 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(string)
-  if string == 
-  return "HUH?! SPEAK UP, SONNY!"
+  if string == "I LOVE YOU GRANDMA!"
+    return "I LOVE YOU TOO PUMPKIN!"
+  
+  else
+    
 end
 
 # Whatever you say to grandma, she should respond with
